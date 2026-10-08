@@ -1,0 +1,21 @@
+{
+  "title": "Malu Vieira | Social Media, Conteúdo e Gestão de Instagram",
+  "description": "Social Media estratégica especializada em edição, captação de conteúdo, Storymaker, Full Day e gestão de Instagram para marcas e profissionais.",
+  "language": "pt-BR",
+  "siteUrl": "https://www.maluvieira.com.br",
+  "robots": {
+    "index": true
+  },
+  "icons": {
+    "icon": "/favicon.svg"
+  },
+  "openGraph": {
+    "title": "Malu Vieira | Social Media Estratégica",
+    "description": "Estratégia, criação de conteúdo, edição e gestão de Instagram para marcas que querem crescer com autenticidade.",
+    "url": "https://holly-oats-13325101.figma.site"
+  },
+  "accessibility": {
+    "addBypassLinks": true,
+    "ignoreReducedMotion": false
+  }
+}
